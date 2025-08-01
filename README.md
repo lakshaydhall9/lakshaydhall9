@@ -4,31 +4,36 @@
 
 ---
 
-## 🧬 lakshay.json
+## 🧑‍💻 About Me
+- 🎓 Final-year B.Tech CSE @ IIIT Una (2022–26)
+- 🧠 Startup-minded developer who enjoys building things people actually use
+- 💻 Full-stack Developer (MERN) | Real-time Apps | API Design | UI/UX Motion Magic ✨
+- 🔭 Currently working on: *Infinito Comics* & community-driven tools
+- 🧘‍♂️ Spiritual balance through Inderesh Ji bhajans — code + calm = 🔥
 
-```json
-{
-  "name": "Lakshay Dhall",
-  "role": "Full-Stack Developer",
-  "education": "B.Tech CSE, IIIT Una (2022–2026)",
-  "techStack": {
-    "frontend": ["React", "Redux", "TailwindCSS", "Framer Motion"],
-    "backend": ["Node.js", "Express.js", "MongoDB", "WebSocket"],
-    "tools": ["Stripe", "Cloudinary", "AWS S3", "Postman", "Recharts", "Vercel", "GitHub"]
+---
+
+## 🧬 WhoAmI.js
+
+```js
+const lakshay = {
+  name: "Lakshay Dhall",
+  college: "IIIT Una",
+  role: "Full-stack Developer",
+  stack: ["MongoDB", "Express", "React", "Node", "Tailwind", "Redux"],
+  currentFocus: ["Infinito Comics", "System Design", "WebSockets"],
+  funFact: () => {
+    const recharge = ["Bhajans", "Late-night coding", "Debugging over chai ☕"];
+    return recharge[Math.floor(Math.random() * recharge.length)];
   },
-  "currentlyWorkingOn": "Infinito Comics",
-  "interests": [
-    "Startups & Hackathons",
-    "System Design",
-    "Real-time Apps",
-    "Spiritual Coding (Bhajans + Code)"
-  ],
-  "funFact": "I debug better after midnight 🌙",
-  "contact": {
-    "email": "lakshaydhall9@gmail.com",
-    "linkedin": "https://linkedin.com/in/lakshaydhall"
+  dream: "Build products people love 🔥",
+  getInTouch: {
+    email: "lakshaydhall9@gmail.com",
+    linkedIn: "linkedin.com/in/lakshaydhall"
   }
-}
+};
+
+
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**  
@@ -84,5 +89,6 @@
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lakshaydhall9@gmail.com)
 
 ---
+
 
 
