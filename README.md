@@ -31,9 +31,9 @@ const lakshay = {
     email: "lakshaydhall9@gmail.com",
     linkedIn: "linkedin.com/in/lakshaydhall"
   }
-};
+}; 
 
-
+```
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**  
