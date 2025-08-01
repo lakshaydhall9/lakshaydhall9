@@ -57,7 +57,7 @@ const lakshay = {
 
 | 🌱 Project | 🧠 Summary | 🔗 Links |
 |-----------|-----------|----------|
-| **[CropConnect](https://github.com/lakshaydhall/CropConnect)** | A real-time platform connecting farmers & urban buyers with stock sync, analytics & order flow | [🔗 GitHub](https://github.com/lakshaydhall/CropConnect) |
+| **[CropConnect](https://github.com/lakshaydhall/CropConnect)** | A real-time platform connecting farmers & urban buyers with stock sync, analytics & order flow | [🔗 GitHub](https://github.com/lakshaydhall9/CropConnect) |
 | **[JobGenius]()** | Resume parser + job matcher powered by Node & Mongo | [🔗 GitHub](https://github.com/lakshaydhall/JobGenius) |
 | **[Rasoi]()** | A MERN-based food delivery platform w/ Stripe payments & smart UI | [🔗 GitHub](https://github.com/lakshaydhall/Rasoi) |
 
