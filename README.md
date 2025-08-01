@@ -29,7 +29,7 @@ const lakshay = {
   dream: "Build products people love 🔥",
   getInTouch: {
     email: "lakshaydhall9@gmail.com",
-    linkedIn: "linkedin.com/in/lakshaydhall"
+    linkedIn: "linkedin.com/in/lakshaydhall9"
   }
 }; 
 
@@ -85,7 +85,7 @@ const lakshay = {
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lakshaydhall) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lakshaydhall9) 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:lakshaydhall9@gmail.com)
 
 ---
