@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Final-year B.Tech CSE @ IIIT Una (2022–26)
+- 🎓 Final-year B.Tech IT @ IIIT Una (2022–26)
 - 🧠 Startup-minded developer who enjoys building things people actually use
 - 💻 Full-stack Developer (MERN) | Real-time Apps | API Design | UI/UX Motion Magic ✨
 - 🔭 Currently working on: *Infinito Comics* & community-driven tools
